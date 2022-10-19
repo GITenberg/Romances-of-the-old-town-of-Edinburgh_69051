@@ -1,0 +1,29 @@
+_repo: Romances-of-the-old-town-of-Edinburgh_69051
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leighton, Alexander
+    birthdate: 1800
+    deathdate: 1874
+    gutenberg_agent_id: '32366'
+    url: http://www.gutenberg.org/2009/agents/32366
+description: ''
+gutenberg_issued: '2022-09-27'
+identifiers:
+  gutenberg: '69051'
+language: en
+pgterms:marc904: https://archive.org/details/romancesofoldtow00leig
+pgterms:marc905: 20210405225756leighton
+pgterms:marc906: '1867'
+pgterms:marc907: GB
+production_note: Sonya Schermann, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United Kingdom :William P. Nimmo,1867.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Romances of the old town of Edinburgh
+url: http://www.gutenberg.org/ebooks/69051
